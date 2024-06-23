@@ -1,0 +1,9 @@
+{
+  "stable": {
+    "current": "4.1.3",
+    "download": "https://github.com/henshingly/LMO_PHP8/releases/latest",
+    "announcement": "",
+    "eol": null,
+    "security": false
+  }
+}
